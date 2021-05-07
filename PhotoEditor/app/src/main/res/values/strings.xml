@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="photo_editor">PHOTO EDITOR</string>
+
+    <string name="visit_site">Visit Site</string>
+
+    <string name="camera">Camera</string>
+    <string name="editor">Editor</string>
+    <string name="album">Album</string>
+    <string name="policy">Policy</string>
+    <string name="collage">Collage</string>
+    <string name="more">More</string>
+    <string name="introduction">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Orci, amet tellus tempus.
+        Lorem ipsum dolor sir amet, consectetur adipiscing elit.
+        Orci, amet tellus tempus.
+    </string>
+    <string name="ads">Ad</string>
+
+</resources>
