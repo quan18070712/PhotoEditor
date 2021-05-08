@@ -136,7 +136,6 @@
         android:id="@+id/imageView2"
         android:layout_width="412dp"
         android:layout_height="145dp"
-        android:layout_marginTop="4dp"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toTopOf="@+id/visitSite"
         app:layout_constraintEnd_toEndOf="parent"
